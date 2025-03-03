@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+.env
+git add bot.py .gitignore
+git commit -m "Initial commit: Waifu & Husbando Bot"
